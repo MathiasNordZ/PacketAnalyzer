@@ -17,12 +17,11 @@ The machine learning pipeline includes:
 
 ```
 .
-├── dataset/
-│ ├── Train_data.csv
-│ └── Test_data.csv
-├── network_intrusion_detection.ipynb # Jupyter notebook or script
-├── network_intrusion_model.pkl # Saved model
-└── README.md
+├── dataset
+│   ├── Test_data.csv
+│   └── Train_data.csv
+├── main.ipynb
+├── README.md
 ```
 
 ## Dataset
