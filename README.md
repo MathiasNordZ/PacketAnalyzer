@@ -15,6 +15,7 @@ The machine learning pipeline includes:
 
 ## Directory Structure
 
+```
 .
 ├── dataset/
 │ ├── Train_data.csv
@@ -22,6 +23,7 @@ The machine learning pipeline includes:
 ├── network_intrusion_detection.ipynb # Jupyter notebook or script
 ├── network_intrusion_model.pkl # Saved model
 └── README.md
+```
 
 ## Dataset
 
